@@ -1,14 +1,15 @@
 # MeetU - Backend
 
 ## 프로젝트 개요
-- 소개 : MBTI와 관심사를 통한 새학기 친구찾기 플랫폼 (팀 프로젝트) </br>
+- 소개 : MBTI와 관심사를 통한 새학기 친구찾기 플랫폼 (팀 프로젝트)  [원본 저장소](https://github.com/codestates-seb/abc02_001)</br>
 - 제작 목적 : 새학기에 보다 쉽게 친구를 사귀기 위해 서비스를 제작하였습니다
 
-
-- [원본 저장소](https://github.com/codestates-seb/abc02_001)
+ 
+- 
 ## 프로젝트 기간 & 인원
 - 프로젝트 기간 : 24.12.27 ~ 24.01.23
 - 개발인원 : 프론트엔드 4명 , 백엔드 5명
+- 
 ##  개발 환경
 ![GIT](https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=GIT&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-%2320232a.svg?style=for-the-badge&logo=GITHUB&logoColor=%2361DAFB)
