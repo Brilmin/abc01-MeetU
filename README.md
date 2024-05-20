@@ -1,5 +1,7 @@
 # MeetU - Backend
-![image](https://github.com/Brilmin/abc01-MeetU/assets/118905157/2236f264-64a0-4a73-9ecd-673b4697a4e3)
+![image](https://github.com/Brilmin/abc01-MeetU/assets/118905157/2344ae08-8a28-4c4c-9e03-30539038b7e8)
+
+
 
 ## 프로젝트 개요 및 배경
 - MBTI와 관심사를 통한 새학기 친구찾기 플랫폼 (팀 프로젝트) https://github.com/codestates-seb/abc02_002
